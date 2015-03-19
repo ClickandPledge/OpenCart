@@ -1,0 +1,5 @@
+-----------------------------------------------------------------------------
+Version 3.0    
+- Added Hong Kong Dollar, Canadian Dollar
+- Compatible with OpenCart 2.0.1.1
+- Updated March 19, 2015
