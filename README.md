@@ -5,5 +5,5 @@ Integration of OpenCart with the Click & Pledge Payment Processing API & Salesfo
 
 References:
 
-        Online Manual : https://manual.clickandpledge.com/ShoppingCarts-OpenCart.html
-        User Forum & Support : https://forums.clickandpledge.com/forumdisplay.php?f=63
+        Online Manual : http://manual.clickandpledge.com/ShoppingCarts-OpenCart.html
+        User Forum & Support : https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/opencart
