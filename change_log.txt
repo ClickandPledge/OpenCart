@@ -9,3 +9,7 @@ Version 4.0
 - Allowing for $0 basket to be processed as a payment
 - Compatible with Open Cart 2.3.0.2
 - Updated January 27, 2017
+-----------------------------------------------------------------------------
+Version 5.0    
+- https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/opencart/38118-release-notes
+- Updated February 27, 2018
