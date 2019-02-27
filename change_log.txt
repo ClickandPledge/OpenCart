@@ -13,3 +13,7 @@ Version 4.0
 Version 5.0    
 - https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/opencart/38118-release-notes
 - Updated February 27, 2018
+-----------------------------------------------------------------------------
+Version 6.0    
+- https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/opencart/38118-release-notes
+- Updated February 27, 2019
